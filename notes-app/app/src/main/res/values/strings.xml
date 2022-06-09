@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="description">ОПИСАНИЕ</string>
+    <string name="title">ЗАГОЛОВОК</string>
+    <string name="detail">РЕДАКТОР</string>
+    <string name="save">СОХР</string>
+    <string name="delete">УДАЛИТЬ</string>
+    <string name="notes">ЗАМЕТКИ</string>
+    <string name="plus">+</string>
+</resources>
